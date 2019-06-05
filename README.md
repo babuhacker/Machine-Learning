@@ -49,6 +49,13 @@ Algorithm example:- K-means clustering
                           
                           
                           
+  
+  Limitations of Machine Learning:1) highe dimensions of data(very large no i/p and o/p)
+                                  2)unable to solve crucial AI problems like NLP , Image recognition etc.
+                                  3)Feature Extraction:Object recognition or handwriting recognition
+ 
+ 
+ 
                           
                           
                           
