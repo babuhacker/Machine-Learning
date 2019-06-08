@@ -68,3 +68,21 @@ Working of linear regression:-
 	|    |__________________Y intercept
      Dependent variable
      
+     
+     
+     
+     Y= mX+C
+     
+     
+     Logistic Regression:=-
+     
+     Logistic Regression is basic and popular algoritthm to solve the classification problem.
+     
+     Logistic Regression is a method used to predict a dependent variable, given a set of independent
+     variable, such that the dependent variable is categorical.
+     
+     Categorical variable basically binary type of variable.hold values linke yes/no or 1/0
+     
+     
+     
+     
