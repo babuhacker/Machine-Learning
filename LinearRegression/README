@@ -4,10 +4,22 @@ What is Regression?
 Regression analysis is a form of predictive modeling technique whcih investigates
 the relationship between a dependent and independent varaible.
 (A regression analysis envloves graphing a line over a set of datapoint that most cloesly
-fits the overall shap of the data.	
-)
+fits the overall shap of the data.)
 uses of regression:
 	Determining the strength of predictors.
 	Forecasting an effect,and
 	Trend forecasting
 	
+	
+     ^	:
+     |	:                         .
+     y	:                      .
+	:                   .
+	:                .
+	:             .
+	:          .
+	:       .
+	:    .
+	:.
+	:_____________________________________
+		independent varaible		x->
