@@ -1,3 +1,23 @@
+Difference between clasification and Regression problem:
+Classification:-
+	Classification is the task of predicting a dscrete class label.
+	In a classification problem data is classified into one of two or more classes
+	A classification problem with two classes is called binary.
+	more than two classes is called multi-class classification.
+	like classifiy the mail:
+	      :--spam
+	mail:-:
+	      :--Non-spam
+		
+	Predict a continous value ,this continous value actually reprsennt the  probability of a given data point
+	belongin to a each output class.
+	Always the N result in classification problem is going to be label or class
+Regression:-
+	Regression is the task of predicting a continous quantity.
+	A continous  quantity is basically  continous varaible is varaible infinte no. of possiblities.
+	
+	Regression is a predictive analysis used to predict  continous varaibles.
+	
 
 What is Regression?
 
@@ -23,3 +43,13 @@ uses of regression:
 	:.
 	:_____________________________________
 		independent varaible		x->
+
+
+What is linear regression?
+Linear regressio is a method to predict dependent varaible(Y) based on values of independent varaible(X).
+it can be used for the cases where we want to predict some contionous quantitiy.
+foe example: predict stock price:
+				Dependent varaible :Stock price(always continous) 
+				Independent varaible :Time
+				
+				
