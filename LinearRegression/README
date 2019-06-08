@@ -50,6 +50,21 @@ Linear regressio is a method to predict dependent varaible(Y) based on values of
 it can be used for the cases where we want to predict some contionous quantitiy.
 foe example: predict stock price:
 				Dependent varaible :Stock price(always continous) 
-				Independent varaible :Time
-				
-				
+				Independent varaible :Time(it can be continous and it can be descrete)
+
+Working of linear regression:-
+	First of all we are trying to figure out the relationship between dependent variable 
+	and indepedent variable by using a best fitting straight line.
+	
+	both two varaible various linearly respect to each other .
+	
+	Y = b0+b1x+e;
+	|    | | | |__________Error			    
+	|    | | |
+	|    | | |________________Independent Variable
+	|    | |		
+	|    | |__________Slope
+	|    |
+	|    |__________________Y intercept
+     Dependent variable
+     
