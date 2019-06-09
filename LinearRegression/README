@@ -9,8 +9,8 @@ Classification:-
 	mail:-:
 	      :--Non-spam
 		
-	Predict a continous value ,this continous value actually reprsennt the  probability of a given data point
-	belongin to a each output class.
+	Predict a continous value ,this continous value actually represent the  probability of a given data point
+	belonging to a each output class.
 	Always the N result in classification problem is going to be label or class
 Regression:-
 	Regression is the task of predicting a continous quantity.
@@ -24,7 +24,7 @@ What is Regression?
 Regression analysis is a form of predictive modeling technique whcih investigates
 the relationship between a dependent and independent varaible.
 (A regression analysis envloves graphing a line over a set of datapoint that most cloesly
-fits the overall shap of the data.)
+fits the overall shape of the data.)
 uses of regression:
 	Determining the strength of predictors.
 	Forecasting an effect,and
