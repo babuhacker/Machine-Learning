@@ -11,10 +11,10 @@ types of learning:
 1)Supervised Learning:-  Supervised Learning is where you have i/p varaibles(x) and an output varaible(Y) and you use an algorithm 
                         to learn the mapping funtion from the input to the output.
                         data you hava already contain classification;
-                        ex : we knew that if you hava this width and this length of the sepal length and petal length so taht be the species of the flower.
+                        ex : we knew that if you hava this width and this length of the sepal length and petal length so that be the species of the flower.
 example:- KNN,logistic regression , decision tree
 
-                 works:- Training data-------learning algorithm-----create Model------test Data ------- accuracy(actual o/p - the o/p which is present in the test daata)
+works:- Training data-------learning algorithm-----create Model------test Data ------- accuracy(actual o/p - the o/p which is present in the test daata)
                  
                  
  
