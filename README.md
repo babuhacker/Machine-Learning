@@ -14,7 +14,7 @@ types of learning:
                         ex : we knew that if you hava this width and this length of the sepal length and petal length so that be the species of the flower.
 example:- KNN,logistic regression , decision tree
 
-works:- Training data-------learning algorithm-----create Model------test Data ------- accuracy(actual o/p - the o/p which is present in the test daata)
+works:- Training data-------learning algorithm-----create Model------test Data ------- accuracy(actual o/p - the o/p which is present in the test data)
                  
                  
  
