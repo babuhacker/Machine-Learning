@@ -46,7 +46,7 @@ uses of regression:
 
 
 What is linear regression?
-Linear regressio is a method to predict dependent varaible(Y) based on values of independent varaible(X).
+Linear regression is a method to predict dependent varaible(Y) based on values of independent varaible(X).
 it can be used for the cases where we want to predict some contionous quantitiy.
 foe example: predict stock price:
 				Dependent varaible :Stock price(always continous) 
@@ -86,3 +86,17 @@ Working of linear regression:-
      Sigmoid funtion
      
      
+	BASIS			LINEAR REGRESSION		LOGISTIC REGRESSION
+	
+	
+     Core Conept	       The Dtaa is modified 		The Probability of some obtained event is represented as 
+     			      using a straight line		a linear function of a combination of predictor variables.
+     
+     Used with		      Continous Variable	        Categorical Variable.
+     
+     Output /Prediction	      value of the variable		probability of occurrence of event
+     
+     Accuracy and	      measured by loss,R 		Accuracy , Precision ,Recall,F1 Score ,ROC curve,
+     Goodness of fit		Squared,adjusted R 		Confusion Matrix etc.
+     				Squared etc.
+				
