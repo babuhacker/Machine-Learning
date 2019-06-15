@@ -1,1 +1,45 @@
+https://www.youtube.com/watch?v=1XqG0kaJVHY
 What is clustering?
+
+Clustering is  a process of dividing the dataset into groups , consisting of similar data-points.
+:-Points in the same group are as similar as possible.
+:-Points in different ogroup are as dissimilar as possible.
+
+example of clustering:- group of diners in  restaurant
+
+                        (the data point in one cluster entirly different from the datapoint the other clustr
+                        all the points in a same cluster are either same or related to each other)
+                        
+                        Items aranged in a mall
+ where it is used?
+            NETFLIX: - see history and show similar results
+
+
+Types of clustering:
+            Exclusive Clustering
+            Overlapping Clustering
+            Hierarchical Clustering
+            
+            Exclusive Clustering :-
+                      Hard Clustring
+                      Data Point / Item belongs exclusively to one Cluster
+                      For Example :- K-means Clustering
+           
+           Overlapping Clustering:-
+                      Soft Cluster
+                      Data Point / Item Belongs to multiple cluster
+                      For example :- Fuzzy / C-Means Clustering
+          
+          
+          Hierarchical Clustering:-ex:-tendogram
+                      
+                      
+                      
+                      
+  K means Clustering:-
+            "K-means is a clustering algorithim whose main goal is to group similar elements or data
+            points into a cluster.
+            "
+            
+            
+            
