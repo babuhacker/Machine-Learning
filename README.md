@@ -2,6 +2,7 @@
 
 https://www.tensorflow.org/js
 
+https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12
 
 types of learning:
 1)Supervised Learning
